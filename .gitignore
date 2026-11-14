@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+instance/*.db
+instance/*.db-wal
+instance/*.db-shm
+instance/secret.key
+.pytest_cache/
